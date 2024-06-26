@@ -1,0 +1,40 @@
+{
+	"name": "laraseed/laraseed",
+	"description": "Bootstrap your database with common datasets",
+	"license": "MIT",
+  "version": "0.1.2",
+  "tags": [
+    "laravel",
+    "database",
+    "seed",
+    "data",
+    "bootstrap",
+    "dataset",
+    "model"
+  ],
+	"authors": [
+		{
+			"name": "Laraseed",
+			"email": "dev@laraseed.com"
+		}
+	],
+  "require-dev": {
+    "php": "^8.1",
+    "illuminate/console": "^11.9",
+    "illuminate/database": "^11.9",
+    "illuminate/support": "^11.9",
+    "laravel/prompts": "^0.1.23"
+  },
+  "autoload": {
+    "psr-4": {
+      "Laraseed\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Laraseed\\Providers\\LaraseedServiceProvider"
+      ]
+    }
+  }
+}

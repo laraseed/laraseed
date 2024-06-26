@@ -1,0 +1,11 @@
+name,description
+Super Admin,Full control of the entire system
+Administrator,Manages user accounts and oversees specific functionalities
+Manager,Oversees user activities and transactions
+Staff,Performs day-to-day operations
+Moderator,"Oversees forums, comments, or content submissions"
+Customer,Uses the application for its services or products
+Guest,Accesses public information with limited interaction
+Analyst,Focuses on data analysis and reporting
+Auditor,Ensures compliance with laws and policies
+Developer,Develops and maintains software

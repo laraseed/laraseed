@@ -1,0 +1,66 @@
+name,code,capital,type,area_miles
+Alabama,AL,Montgomery,State,52420
+Alaska,AK,Juneau,State,665384
+Arizona,AZ,Phoenix,State,113990
+Arkansas,AR,Little Rock,State,53179
+California,CA,Sacramento,State,163695
+Colorado,CO,Denver,State,104094
+Connecticut,CT,Hartford,State,5543
+Delaware,DE,Dover,State,2489
+Florida,FL,Tallahassee,State,65758
+Georgia,GA,Atlanta,State,59425
+Hawaii,HI,Honolulu,State,10932
+Idaho,ID,Boise,State,83569
+Illinois,IL,Springfield,State,57914
+Indiana,IN,Indianapolis,State,36420
+Iowa,IA,Des Moines,State,56273
+Kansas,KS,Topeka,State,82278
+Kentucky,KY,Frankfort,State,40408
+Louisiana,LA,Baton Rouge,State,52378
+Maine,ME,Augusta,State,35380
+Maryland,MD,Annapolis,State,12406
+Massachusetts,MA,Boston,State,10554
+Michigan,MI,Lansing,State,96714
+Minnesota,MN,St. Paul,State,86936
+Mississippi,MS,Jackson,State,48432
+Missouri,MO,Jefferson City,State,69707
+Montana,MT,Helena,State,147040
+Nebraska,NE,Lincoln,State,77348
+Nevada,NV,Carson City,State,110572
+New Hampshire,NH,Concord,State,9349
+New Jersey,NJ,Trenton,State,8723
+New Mexico,NM,Santa Fe,State,121590
+New York,NY,Albany,State,54555
+North Carolina,NC,Raleigh,State,53819
+North Dakota,ND,Bismarck,State,70698
+Ohio,OH,Columbus,State,44826
+Oklahoma,OK,Oklahoma City,State,69899
+Oregon,OR,Salem,State,98379
+Pennsylvania,PA,Harrisburg,State,46054
+Rhode Island,RI,Providence,State,1545
+South Carolina,SC,Columbia,State,32020
+South Dakota,SD,Pierre,State,77116
+Tennessee,TN,Nashville,State,42144
+Texas,TX,Austin,State,268596
+Utah,UT,Salt Lake City,State,84897
+Vermont,VT,Montpelier,State,9616
+Virginia,VA,Richmond,State,42775
+Washington,WA,Olympia,State,71298
+West Virginia,WV,Charleston,State,24230
+Wisconsin,WI,Madison,State,65496
+Wyoming,WY,Cheyenne,State,97813
+District of Columbia,DC,,Federal District,68
+American Samoa,AS,Pago Pago,Territory,581
+Guam,GU,HagŒt–a,Territory,571
+Northern Mariana Islands,MP,Saipan,Territory,1976
+Puerto Rico,PR,San Juan,Territory,5325
+U.S. Virgin Islands,VI,Charlotte Amalie,Territory,733
+Baker Island,,,Territory,0.9
+Howland Island,,,Territory,0.6
+Jarvis Island,,,Territory,2.2
+Johnston Atoll,,,Territory,1
+Kingman Reef,,,Territory,0.005
+Midway Atoll,,,Territory,3
+Navassa Island,,,Territory,3
+Palmyra Atoll,,,Territory,1.5
+Wake Island,,,Territory,2.5
